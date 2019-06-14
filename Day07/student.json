@@ -1,0 +1,29 @@
+import json
+
+profile="""
+{
+	"Student": [{
+			"First_Name": "Apoorav",
+			"Last_Name": "Jain",
+			"Photo": "file:///D:/HD wallpapers/3D Abstract art hd wallpaper-3D-HD-Wallpapers.jpg",
+			"Department": "computer science",
+			"Research Areas (can be multiple)": ["laxmi nagar,delhi", "ganesh nagar,agra"],
+			"Contact Details": {
+				"mobile_no.": ["8791661947", "8279721307"],
+				"email_id": ["apooravjain12@gmail.com"]
+			}
+		},
+		{
+			"First_Name": "Milan",
+			"Last_Name": "Soni",
+			"Photo": "file:///D:/HD wallpapers/3D Abstract art hd wallpaper-3D-HD-Wallpapers.jpg",
+			"Department": "computer science",
+			"Research Areas (can be multiple)": ["laxmi nagar,delhi", "ganesh nagar,agra"],
+			"Contact Details": {
+				"mobile_no.": ["8791661947", "8279721307"],
+				"email_id": ["apooravjain12@gmail.com"]
+			}
+		}
+	]
+}
+"""
